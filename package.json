@@ -1,0 +1,16 @@
+{
+  "name": "cypress-e2e-test",
+  "version": "1.0.0",
+  "description": "Feito com base no curso de Cypress Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Sandra Pavan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.4.0"
+  }
+}
